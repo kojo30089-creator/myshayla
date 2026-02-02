@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   // --- Basic SEO ---
   metadataBase: new URL(baseUrl),
   title: {
-    default: "For Naomi ❤️ | A Special Question",
+    default: "For My Shayla ❤️ | A Special Question",
     template: "%s | Valentine's Surprise",
   },
   description: "I have a story to tell you and a very important question to ask. Made with ❤️.",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
 
   // --- Open Graph (Facebook, WhatsApp, LinkedIn, Discord) ---
   openGraph: {
-    title: "For Naomi ❤️ | A Special Question",
+    title: "For My Shayla ❤️ | A Special Question",
     description: "I have a story to tell you and a very important question to ask. Click to unlock.",
     url: baseUrl,
     siteName: "Valentine's Surprise",
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
   // --- Twitter / X ---
   twitter: {
     card: "summary_large_image",
-    title: "For Naomi ❤️ | A Special Question",
+    title: "For My Shayla ❤️ | A Special Question",
     description: "I have a story to tell you and a very important question to ask.",
     creator: "@Osi", // Optional
     images: ["/og-image.jpg"],
